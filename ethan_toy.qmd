@@ -1,0 +1,13 @@
+---
+title: "Ethan's Toy Project"
+author: "Ethan"
+date: today
+output: html
+embed-resources: true
+---
+
+```{r}
+
+print("Hello World")
+
+```
